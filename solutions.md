@@ -17,3 +17,4 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 13**: [Data Preprocessing Project Tutorial](https://github.com/gperdrizet/gperdrizet-data-preprocessing-project-tutorial/tree/main/solution)
 - **Module 14**: [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/src/solution.ipynb)
 - **Module 15**: [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/src/solution.ipynb)
+- **Module 16**: [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/src/solution.ipynb)
