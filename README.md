@@ -2,6 +2,10 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-05
+
+Updated project boilerplate repository. Use this to fork your projects (or fork from my MVP repo): [4Geeks_datascience_project](https://github.com/gperdrizet/4Geeks_datascience_project)
+
 ## 2025-02-24
 
 Started list of links for 'MVP' notebooks. See [MVP_notebooks.md](https://github.com/4GeeksAcademy/gperdrizet-ds9-materials/blob/main/MVP_notebooks.md) page above.
