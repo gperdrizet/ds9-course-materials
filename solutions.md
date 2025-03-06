@@ -18,3 +18,4 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 14**: [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/src/solution.ipynb)
 - **Module 15**: [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/src/solution.ipynb)
 - **Module 16**: [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/src/solution.ipynb)
+- **Module 17**: [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-decision-tree-project/blob/main/src/01-decision_tree_solution.ipynb)

@@ -4,7 +4,12 @@ Extra course materials for data science cohort 9.
 
 ## 2025-03-05
 
-Updated project boilerplate repository. Use this to fork your projects (or fork from my MVP repo): [4Geeks_datascience_project](https://github.com/gperdrizet/4Geeks_datascience_project)
+**Updated** project boilerplate repository. Use this to fork your projects (or fork from my MVP repo): [4Geeks_datascience_project](https://github.com/gperdrizet/4Geeks_datascience_project)
+
+Here are the links for the cross-validation resources from SciKit-learn we discussed in class tonight:
+
+1. [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
+2. [`cross_val_score()`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
 
 ## 2025-02-24
 
