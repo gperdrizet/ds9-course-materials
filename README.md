@@ -2,6 +2,15 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-07
+
+Here are the two SciKit-learn meta-estimators for implementing your own ensemble methods:
+
+1. [`BaggingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html). Takes a classifier model as an argument. Trains n copies of that model on subsets of the data. Used to make your own 'forest' with any classification model type.
+2. [`VotingClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html). Takes a list of classifier models and aggregates their predictions via majority voting. Can be used to create ensembles of more than one model type.
+
+Also worth a read - the original paper describing random forests: [Ho, T.K. (1995) Random Decision Forest](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Ho_random_decision_forests_1995.pdf). A little math heavy, but short and to the point. It does an excellent job explaining the motivation behind random forests and serves as a great primer on ensemble methods in general.
+
 ## 2025-03-05
 
 **Updated**: project boilerplate repository. Use this to fork your projects (or fork from my MVP repo): [4Geeks_datascience_project](https://github.com/gperdrizet/4Geeks_datascience_project)
