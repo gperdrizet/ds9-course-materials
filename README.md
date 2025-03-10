@@ -2,6 +2,10 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-10
+
+Here is a link to the Adaboost meta-estimator in SciKit-learn: [`AdaBoostClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html). Adaboost is a sequential ensemble technique very similar to gradient boosing, but it can be used with any SciKit-learn model that supports class weighting (ex: logisic regression, random forest, etc.).
+
 ## 2025-03-07
 
 Here are the two SciKit-learn meta-estimators for implementing your own ensemble methods:

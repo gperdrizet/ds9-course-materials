@@ -19,3 +19,4 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 15**: [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/src/solution.ipynb)
 - **Module 16**: [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/src/solution.ipynb)
 - **Module 17**: [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/01-decision_tree_solution.ipynb)
+- **Module 18**: [Random forest](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/02-random_forest_solution.ipynb)

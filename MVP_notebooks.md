@@ -12,3 +12,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 2. [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/src/mvp.ipynb)
 3. [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/tree/main/src/mvp.ipynb)
 4. [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/decision_tree_mvp.ipynb)
+5. [Gradient boosting](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/gradient_boosting_mvp.ipynb)
