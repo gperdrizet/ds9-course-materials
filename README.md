@@ -2,6 +2,13 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-14
+
+Two extra items for tonight:
+
+1. [Bag of words naive bayes classifier](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/bag_of_words_naive_bayes.md): Explination of how bag of words modeling with a naview Bayes classifier works using a simple toy example.
+2. [Classifier threshold tuning](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/04-decision_threshold_tuning.ipynb): Demonstration of classifier decision threshold tuning using the diabetes prediction project dataset and models.
+
 ## 2025-03-10
 
 Here is a link to the Adaboost meta-estimator in SciKit-learn: [`AdaBoostClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html). Adaboost is a sequential ensemble technique very similar to gradient boosing, but it can be used with any SciKit-learn model that supports class weighting (ex: logisic regression, random forest, etc.).
