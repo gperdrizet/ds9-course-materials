@@ -6,7 +6,7 @@ Extra course materials for data science cohort 9.
 
 Two extra items for tonight:
 
-1. [Bag of words naive bayes classifier](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/bag_of_words_naive_bayes.md): Explination of how bag of words modeling with a naview Bayes classifier works using a simple toy example.
+1. [Bag of words naive Bayes classifier](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/bag_of_words_naive_bayes.md): Explination of how bag of words modeling with a naview Bayes classifier works using a simple toy example.
 2. [Classifier threshold tuning](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/04-decision_threshold_tuning.ipynb): Demonstration of classifier decision threshold tuning using the diabetes prediction project dataset and models.
 
 ## 2025-03-10
