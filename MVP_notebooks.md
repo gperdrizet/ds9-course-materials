@@ -14,3 +14,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 4. [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/decision_tree_mvp.ipynb)
 5. [Random forest](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/decision_tree_mvp.ipynb)
 6. [Gradient boosting](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/gradient_boosting_mvp.ipynb)
+7. [Naive bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/src/MVP.ipynb)
