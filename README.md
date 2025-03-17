@@ -4,7 +4,7 @@ Extra course materials for data science cohort 9.
 
 ## 2025-03-17
 
-Added notebook with 3D plotly visualization of iris dataset featurespace. See [here](https://github.com/gperdrizet/ds9-course-materials/blob/main/notebooks/feature_space.ipynb). Note: to see the plot, you must start a codespace on this repository and run the notebook.
+Added notebook with 3D Plotly visualization of iris dataset feature space. See [here](https://github.com/gperdrizet/ds9-course-materials/blob/main/notebooks/feature_space.ipynb). Note: to see the plot, you must start a Codespace on this repository and run the notebook.
 
 ## 2025-03-14
 
