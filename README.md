@@ -2,6 +2,10 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-17
+
+Added notebook with 3D plotly visualization of iris dataset featurespace. See [here]
+
 ## 2025-03-14
 
 Two extra items for tonight:
