@@ -22,3 +22,4 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 18**: [Random forest](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/02-random_forest_solution.ipynb)
 - **Module 19**: [Gradient boosting](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/03-gradient_boosting_solution.ipynb)
 - **Module 20**: [Naive Bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/src/solution.ipynb)
+- **Module 21**: [K-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-k-nearest-neighbors/blob/main/src/solution.ipynb)
