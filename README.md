@@ -2,6 +2,17 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-21
+
+Here are some additional resources related to our discussion of NLP and unsupervised methods:
+
+1. What's better than TF-IDF for text encoding? The next two big steps up are:
+    a. Learned vector embeddings: See the original publication by [Mikolov, et al. (2014)](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Mikolov_2014.pdf) for the full scientific details. Implemntation and other tools in the python package [Gensim](https://github.com/piskvorky/gensim/blob/develop/gensim%20Quick%20Start.ipynb)
+    b. Transformers: See the [Vaswani, et al. (2017)](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Vaswani_2017.pdf) paper for the nitty-gritty details of transformers, a good current Python implementaion is [DistilBERT](https://huggingface.co/distilbert/distilbert-base-uncased)
+2. Cluster number (k) selection/evaluation. If it is not obvious ahead of time how many clusters to use (e.g. the Iris dataset contains three species), there are two common methods help pick the best value. The elbow plot method and the silhouette score. Set [this Kaggle notebook](https://www.kaggle.com/code/funxexcel/p2-sklearn-k-means-elbow-and-silhouette-method) for a demonstration of both.
+3. Getting cluster membership from Scipy's hierarchical clustering results: use the [fcluster()](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.fcluster.html) function.
+
+
 ## 2025-03-17
 
 Added notebook with 3D Plotly visualization of iris dataset feature space. See [here](https://github.com/gperdrizet/ds9-course-materials/blob/main/notebooks/feature_space.ipynb). Note: to see the plot, you must start a Codespace on this repository and run the notebook.
