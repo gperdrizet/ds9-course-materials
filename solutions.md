@@ -24,3 +24,4 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 20**: [Naive Bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/src/solution.ipynb)
 - **Module 21**: [K-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-k-nearest-neighbors/blob/main/src/solution.ipynb)
 - **Module 22**: [K-means](https://github.com/4GeeksAcademy/gperdrizet-k-means/blob/main/src/solution.ipynb)
+- **Module 23**: [Time-series forecasting](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/solution.ipynb)

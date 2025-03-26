@@ -18,3 +18,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 8. [K-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-k-nearest-neighbors/blob/main/src/mvp.ipynb)
 9. [K-means](https://github.com/4GeeksAcademy/gperdrizet-k-means/blob/main/src/mvp.ipynb)
 10. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/mvp.ipynb)
+11. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/src/mvp.ipynb)
