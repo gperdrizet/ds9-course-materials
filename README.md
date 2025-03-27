@@ -2,6 +2,16 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-03-26
+
+Here is a nice article about learning curves. It gives some examples of common issues that are diagnosable from learning curves and what to do about them:
+
+[Weights & Biases: A Deep Dive Into Learning Curves in Machine Learning](https://wandb.ai/mostafaibrahim17/ml-articles/reports/A-Deep-Dive-Into-Learning-Curves-in-Machine-Learning--Vmlldzo0NjA1ODY0)
+
+Here is another resource on image classification using CNNs stright from Google's TensorFlow documentation. Very similar to the present project, with some extras & differences. This is a good jumping off point to the rest of the TensorFlow & Keras documentaion on the topic.
+
+[TensorFlow: Image classification](https://www.tensorflow.org/tutorials/images/classification)
+
 ## 2025-03-21
 
 Here are some additional resources related to our discussion of NLP and unsupervised methods:
