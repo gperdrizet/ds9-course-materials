@@ -20,3 +20,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 10. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/mvp.ipynb)
 11. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/src/mvp.ipynb)
 12. [Natural language processing](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/src/mvp.ipynb)
+13. [Flask web app: diabetes prediction](https://github.com/4GeeksAcademy/gperdrizet-ML-web-app-using-Flask)

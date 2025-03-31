@@ -26,3 +26,4 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 22**: [K-means](https://github.com/4GeeksAcademy/gperdrizet-k-means/blob/main/src/solution.ipynb)
 - **Module 23**: [Time-series forecasting](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/solution.ipynb)
 - **Module 24**: [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/src/solution.ipynb)
+- **Module 25**: [NLP](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/src/solution.ipynb)
