@@ -27,3 +27,5 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 23**: [Time-series forecasting](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/solution.ipynb)
 - **Module 24**: [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/src/solution.ipynb)
 - **Module 25**: [NLP](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/src/solution.ipynb)
+- **Module 26**: [Diabetes Flask app](https://github.com/4GeeksAcademy/gperdrizet-ML-web-app-using-Flask) & [Movies Flask app](https://github.com/4GeeksAcademy/gperdrizet-flask-app)
+- **Module 26**: [Movies Streamlit app](https://github.com/4GeeksAcademy/gperdrizet-streamlit-app)
