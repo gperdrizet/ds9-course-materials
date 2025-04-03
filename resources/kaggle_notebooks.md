@@ -12,3 +12,16 @@ Disatavantages relative to GitHub Codespace:
 2. Limited/no real acces to underlying Linux instance
 
 To illustrate the use of Kaggle notebooks for data science projects, let's walk through setting up the Cats vs Dogs image classifier. These instructions assume you already have a phone number verified Kaggle account.
+
+## 1. Create a new notebook
+
+1. Click your profile icon and select 'Your Work'
+2. Click the '+ Create' button and choose 'New Notebook'
+
+You should see a notebook interface with some example code. If you were setting a new project, you could start coding right away.
+
+## 2. Get the notebook from GitHub
+
+1. Click 'File' and select 'Link to GitHub'
+2. Follow the prompts to Authorize Kaggle to access your GitHub profile
+3. Click 'File', then 'Import Notebook'
