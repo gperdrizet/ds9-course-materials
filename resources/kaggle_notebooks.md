@@ -7,7 +7,7 @@ Advantages relative to GitHub Codespaces:
 2. Integreated directly with Kaggle datasets
 3. Able to push/pull notebooks from GitHub
 
-Disatavantages relative to GitHub Codespace:
+Disadvantages relative to GitHub Codespace:
 1. Less flexible
 2. Limited/no real acces to underlying Linux instance
 
