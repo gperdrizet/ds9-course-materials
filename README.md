@@ -2,6 +2,14 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-04-04
+
+Here is the link to the [Kaggle notebook setup instructions](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/kaggle_notebooks.md). The steps walk you through setting up the image classification project on Kaggle using the Inception V3 model. Inception V3 was a top performing convolutional architecture from ~2016. It is much more powerfull (and larger!) than our DIY convolutional neural network. Additionaly, the notebook demonstrates 'fine-tuning', or training only some layers of an already trained model. This is a common practice for larger, more complex models which can save a lot of compute resources and time. See the following links for more info on Inception V3 and fine-tuning it with Keras:
+
+1. [Keras Application examples](https://keras.io/api/applications/)
+2. [Inception V3 paper](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Szegedy_2015.pdf)
+3. [Fine-tuning](https://huggingface.co/docs/transformers/en/training). **Note:** the link walks through some examples using HuggingFace - a ML model platform we have not talked about (yet). Check it out, its the go-to place for opensource pre-trained models (especially LLMs...)
+
 ## 2025-03-26
 
 Here is a nice article about learning curves. It gives some examples of common issues that are diagnosable from learning curves and what to do about them:
