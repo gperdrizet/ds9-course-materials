@@ -2,14 +2,14 @@
 
 ## Brainstorming
 
-This is where it gets fun. For the final project, you will need to identify an interesting or important problem you can solve or question you can answer with data. Scale is important here - you don't want to pick a gigantic, impossible problem your first time out. Also, the final project is only a month and change long; you need to be able to complete it in that time. I'm here to guide you on scale. Think big first, then we will reign it in. Seriously, go nuts, come up with as many crazy ideas as you can! What problems do you see in your life? What problems do you see in the word? It doesn't have to be a major, serious issue - in pure data terms, finding parking could be as interesting and impactful as curing cancer.
+This is where it gets fun. For the final project, you will need to identify an interesting or important problem you can solve or question you can answer with data. Scale is important here - you don't want to pick a gigantic, impossible problem but you also want it to be intresting and challenging enough that it demonstates you skills. Also, we have about a month to work on the final project so, you need to be able to complete it in that time. I'm here to guide you on scale. Think big first, then we can focus and reign the project scale in if need be. Seriously, go nuts, come up with as many crazy ideas as you can! What problems do you see in your life? What problems do you see in the word? It doesn't have to be a major, serious issue - in pure data terms, finding parking could be as interesting and impactful as curing cancer.
 
 ## Data sources
 
-Sky is the limit here - anything you can (legally) get your hands on. It's 2024 and pretty much everything electronic produces a constant stream of data. In general, look for a large pre-existing dataset that is available to the public. A couple of things to avoid:
+Sky is the limit here - anything you can (legally) get your hands on. It's 2025 and pretty much everything electronic produces a constant stream of data. In general, look for a large pre-existing dataset that is available to the public. A couple of things to avoid:
 
-1. Large scale web scraping is not really a thing in 2024. If the people who own the data want you to have access, they will publish it or provide an API. If not, and you start crawling pages with BeautifulSoup, you're a DOS attack and your IP address will get banned.
-2. 'Hot' data - and by that I mean data that is updated quickly and regularly. You can do very cool data science with these types of data sources (think stock tickers, traffic cameras, etc.). But live analysis of a hot data source adds a level of complexity that is beyond the scope of this course.
+1. Large scale web scraping is not really a thing in 2025. If the people who own the data want you to have access, they will publish it or provide an API. If not, and you start crawling pages with BeautifulSoup, you look like a DdOS attack and your IP address will probably get banned.
+2. 'Hot' data - meaning data that is updated quickly and regularly. You can do very cool data science with these types of data sources (think stock tickers, traffic cameras, etc.). But live analysis of a hot data source adds a level of complexity that is beyond the scope of this course.
 
 In general, for sources, look at government agencies, public interest groups, non-profits, university libraries, research institutes etc. Entities that are publicly funded are much more likely to give you access to their data for free. But some companies, like Kaggle, also curate and proved datasets. Here are some examples to get you started:
 
