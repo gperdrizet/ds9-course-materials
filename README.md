@@ -2,6 +2,20 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-04-18
+
+### Final project groups
+
+#### Aviation incident prediction
+1. Dyimah Ansah
+2. Madeshwaran Selvaraj
+3. Adam Val
+
+#### Workout reccomendation system
+1. Mike Berrio
+2. Gabriel Burton
+3. Taylor Clements
+
 ## 2025-04-07
 
 Here are some resources & advice to get you started thinking about Final Project topics: [Finding Data Science Problems](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/find_data_science_problems.md)
