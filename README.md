@@ -4,14 +4,14 @@ Extra course materials for data science cohort 9.
 
 ## 2025-04-18
 
-### Final project groups
+### Final project groups:
 
-#### Aviation incident prediction
+#### [Aviation incident prediction](https://github.com/4GeeksAcademy/aviation_final_project)
 1. Dyimah Ansah
 2. Madeshwaran Selvaraj
 3. Adam Val
 
-#### Workout reccomendation system
+#### [Workout recommendation system](https://github.com/4GeeksAcademy/fitness_final_project)
 1. Mike Berrio
 2. Gabriel Burton
 3. Taylor Clements
