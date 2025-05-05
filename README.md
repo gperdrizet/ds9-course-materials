@@ -2,6 +2,12 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-05-09
+
+1. **Last Google Meet**: Friday 5/9.
+2. **GeekTalk**: Friday 5/23 with Miami Full Stack cohort 76.
+3. Course directory will come to class on Friday with more details about GeekTalk day.
+
 ## 2025-04-18
 
 ### Final project groups:
