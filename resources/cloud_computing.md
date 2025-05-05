@@ -25,7 +25,7 @@ Obviously there is much complexity here, and our examples are a bit over simplif
 Exactly what the cloud can be used for and how is a huge topic that depends on the provider and what you are trying to accomplish. For us, the following top-level distinction will be useful. The ways you may want to use the cloud for your final project roughly fall into two categories:
 
 1. **Compute**: Using the cloud to get access to a more powerful/pre-configured computer to run data analysis/manipulations, model training, etc.
-2. **Hosting**: Using the cloud to make the product of our data science efforts avalible to other people to use.
+2. **Hosting**: Using the cloud to make the product of our data science efforts available to other people to use.
 
 There is some overlap between these categories, e.g. when serving a model, compute resources are required for inference. Most likely, you will use cloud for both.
 
