@@ -2,11 +2,15 @@
 
 Extra course materials for data science cohort 9.
 
-## 2025-05-09
+## 2025-05-07
+
+Added [CI/CD walkthrough](https://github.com/gperdrizet/ds9-course-mater) using k-nearest neighbors movie recommendation app as an example.
+
+## 2025-05-05
 
 1. **Last Google Meet**: Friday 5/9.
 2. **GeekTalk**: Friday 5/23 with Miami Full Stack cohort 76.
-3. Course directory will come to class on Friday with more details about GeekTalk day.
+3. Course director will come to class on Friday with more details about GeekTalk day.
 
 ## 2025-04-18
 
