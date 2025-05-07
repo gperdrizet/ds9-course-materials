@@ -2,9 +2,33 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-05-09
+
+1. **Last Google Meet**: Friday 5/9.
+2. **GeekTalk**: Friday 5/23 with Miami Full Stack cohort 76.
+3. Course directory will come to class on Friday with more details about GeekTalk day.
+
+## 2025-04-18
+
+### Final project groups:
+
+#### [Aviation incident prediction](https://github.com/4GeeksAcademy/aviation_final_project)
+1. Dyimah Ansah
+2. Madeshwaran Selvaraj
+3. Adam Val
+
+#### [Workout recommendation system](https://github.com/4GeeksAcademy/fitness_final_project)
+1. Mike Berrio
+2. Gabriel Burton
+3. Taylor Clements
+
+## 2025-04-07
+
+Here are some resources & advice to get you started thinking about Final Project topics: [Finding Data Science Problems](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/find_data_science_problems.md)
+
 ## 2025-04-04
 
-Here is the link to the [Kaggle notebook setup instructions](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/kaggle_notebooks.md). The steps walk you through setting up the image classification project on Kaggle using the Inception V3 model. Inception V3 was a top performing convolutional architecture from ~2016. It is much more powerfull (and larger!) than our DIY convolutional neural network. Additionaly, the notebook demonstrates 'fine-tuning', or training only some layers of an already trained model. This is a common practice for larger, more complex models which can save a lot of compute resources and time. See the following links for more info on Inception V3 and fine-tuning it with Keras:
+Here is the link to the [Kaggle notebook setup instructions](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/kaggle_notebooks.md). The steps walk you through setting up the image classification project on Kaggle using the Inception V3 model. Inception V3 was a top performing convolutional architecture from ~2016. It is much more powerful (and larger!) than our DIY convolutional neural network. additionally, the notebook demonstrates 'fine-tuning', or training only some layers of an already trained model. This is a common practice for larger, more complex models which can save a lot of compute resources and time. See the following links for more info on Inception V3 and fine-tuning it with Keras:
 
 1. [Keras Application examples](https://keras.io/api/applications/)
 2. [Inception V3 paper](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Szegedy_2015.pdf)
@@ -16,7 +40,7 @@ Here is a nice article about learning curves. It gives some examples of common i
 
 [Weights & Biases: A Deep Dive Into Learning Curves in Machine Learning](https://wandb.ai/mostafaibrahim17/ml-articles/reports/A-Deep-Dive-Into-Learning-Curves-in-Machine-Learning--Vmlldzo0NjA1ODY0)
 
-Here is another resource on image classification using CNNs stright from Google's TensorFlow documentation. Very similar to the present project, with some extras & differences. This is a good jumping off point to the rest of the TensorFlow & Keras documentaion on the topic.
+Here is another resource on image classification using CNNs straight from Google's TensorFlow documentation. Very similar to the present project, with some extras & differences. This is a good jumping off point to the rest of the TensorFlow & Keras documentation on the topic.
 
 [TensorFlow: Image classification](https://www.tensorflow.org/tutorials/images/classification)
 
@@ -26,9 +50,9 @@ Here are some additional resources related to our discussion of NLP and unsuperv
 
 1. What's better than TF-IDF for text encoding? The next two big steps up are:
 
-    a. Learned vector embeddings: See the original publication by [Mikolov, et al. (2014)](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Mikolov_2014.pdf) for the full scientific details. Implemntation and other tools in the python package [Gensim](https://github.com/piskvorky/gensim/blob/develop/gensim%20Quick%20Start.ipynb)
+    a. Learned vector embeddings: See the original publication by [Mikolov, et al. (2014)](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Mikolov_2014.pdf) for the full scientific details. implementation and other tools in the python package [Gensim](https://github.com/piskvorky/gensim/blob/develop/gensim%20Quick%20Start.ipynb)
 
-    b. Transformers: See the [Vaswani, et al. (2017)](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Vaswani_2017.pdf) paper for the nitty-gritty details of transformers, a good current Python implementaion is [DistilBERT](https://huggingface.co/distilbert/distilbert-base-uncased)
+    b. Transformers: See the [Vaswani, et al. (2017)](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/articles/Vaswani_2017.pdf) paper for the nitty-gritty details of transformers, a good current Python implementation is [DistilBERT](https://huggingface.co/distilbert/distilbert-base-uncased)
 
 2. Cluster number (k) selection/evaluation. If it is not obvious ahead of time how many clusters to use (e.g. the Iris dataset contains three species), there are two common methods help pick the best value. The elbow plot method and the silhouette score. See [this Kaggle notebook](https://www.kaggle.com/code/funxexcel/p2-sklearn-k-means-elbow-and-silhouette-method) for a demonstration of both.
 3. Getting cluster membership from Scipy's hierarchical clustering results: use the [fcluster()](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.fcluster.html) function.
@@ -42,12 +66,12 @@ Added notebook with 3D Plotly visualization of iris dataset feature space. See [
 
 Two extra items for tonight:
 
-1. [Bag of words naive Bayes classifier](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/bag_of_words_naive_bayes.md): Explination of how bag of words modeling with a naview Bayes classifier works using a simple toy example.
+1. [Bag of words naive Bayes classifier](https://github.com/gperdrizet/ds9-course-materials/blob/main/resources/bag_of_words_naive_bayes.md): explanation of how bag of words modeling with a naive Bayes classifier works using a simple toy example.
 2. [Classifier threshold tuning](https://github.com/4GeeksAcademy/gperdrizet-diabetes-prediction/blob/main/src/04-decision_threshold_tuning.ipynb): Demonstration of classifier decision threshold tuning using the diabetes prediction project dataset and models.
 
 ## 2025-03-10
 
-Here is a link to the Adaboost meta-estimator in SciKit-learn: [`AdaBoostClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html). Adaboost is a sequential ensemble technique very similar to gradient boosing, but it can be used with any SciKit-learn model that supports class weighting (ex: logisic regression, random forest, etc.).
+Here is a link to the Adaboost meta-estimator in SciKit-learn: [`AdaBoostClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html). Adaboost is a sequential ensemble technique very similar to gradient boosting, but it can be used with any SciKit-learn model that supports class weighting (ex: logistic regression, random forest, etc.).
 
 ## 2025-03-07
 
