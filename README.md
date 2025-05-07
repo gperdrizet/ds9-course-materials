@@ -23,8 +23,7 @@ Added [CI/CD walkthrough](https://github.com/gperdrizet/ds9-course-mater) using 
 
 #### [Workout recommendation system](https://github.com/4GeeksAcademy/fitness_final_project)
 1. Mike Berrio
-2. Gabriel Burton
-3. Taylor Clements
+2. Taylor Clements
 
 ## 2025-04-07
 
