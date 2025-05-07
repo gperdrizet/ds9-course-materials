@@ -10,6 +10,14 @@ This document will guide you through the set-up of a basic CI/CD pipeline for Re
 
 See: [the example repository](https://github.com/4GeeksAcademy/gperdrizet-streamlit-app-CICD)
 
+Common CI/CD frameworks:
+1. [Travis](https://www.travis-ci.com/)
+2. [Jenkins](https://www.jenkins.io/)
+
+Common testing frameworks for Python
+1. [pytest](https://docs.pytest.org/en/stable/)
+2. [unittest](https://docs.python.org/3/library/unittest.html)
+
 ## Outline
 
 1. Workflow 
