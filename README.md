@@ -7,7 +7,7 @@ Extra course materials for data science cohort 9.
 **Updated**
 
 1. **Last Google Meet**: Friday 5/9.
-2. **GeekTalk practice**: Wednesday 5/23.
+2. **GeekTalk practice**: Wednesday 5/21.
 3. **GeekTalk**: Friday 5/23 with a full stack + cybersecurity cohort.
 5. Carrear support class starts after the GeekTalk.
 
